@@ -1,5 +1,6 @@
 === Enfold Tweaks ===
 Contributors: wolfdevs
+Donate link:
 Tags: addon
 Requires at least: 4.0
 Tested up to: 6.1.1
@@ -40,8 +41,14 @@ Supercharge your Enfold theme with customizations and improvements. Enfold Tweak
 
 Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kriesi.
 
+== Screenshots ==
+
+
+
 == Changelog ==
 
 = 1.0 =
 * 2023-01-22
 * Initial release
+
+== Upgrade Notice ==
