@@ -52,7 +52,3 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 * Initial release
 
 == Upgrade Notice ==
-
-= 1.0 =
-* 2023-01-22
-* Initial release
