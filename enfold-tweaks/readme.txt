@@ -1,6 +1,6 @@
 === Enfold Tweaks ===
 Contributors: wolfdevs
-Donate link:
+Donate link: https://wolfdevs.com
 Tags: addon
 Requires at least: 4.0
 Tested up to: 6.1.1
@@ -43,7 +43,7 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Screenshots ==
 
-
+1. n/a
 
 == Changelog ==
 
