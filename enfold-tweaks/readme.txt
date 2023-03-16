@@ -47,4 +47,14 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Changelog ==
 
+= 1.0.2 =
+* Fix: Upgrade issue.
+* Added: Ability to use plugin if child theme is not active.
+
+= 1.0.1 =
+* Fix: Modern header banner settings.
+
+= 1.0 =
+* Initial release.
+
 == Upgrade Notice ==
