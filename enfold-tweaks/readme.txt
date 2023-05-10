@@ -47,9 +47,13 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Changelog ==
 
+= 1.0.3 =
+* Improvement: Activation and Deactivation improved
+* Removed ALB Debug toggle as it is already provided by Enfold from v5.6
+
 = 1.0.2 =
-* Fix: Plugin updater issue.
-* Added: Ability to use plugin if child theme is not active.
+* Fix: Upgrade issue.
+* Added: Ability to use the plugin if child theme is not active.
 
 = 1.0.1 =
 * Fix: Modern header banner settings.
