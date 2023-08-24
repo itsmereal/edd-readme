@@ -47,6 +47,12 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Changelog ==
 
+= 1.0.4 =
+* New Hybrid Button Element with Popup capability
+* Fix heading and image not linked on Hybrid Box Element
+* Added new tab option on Block Link Element
+* Renamed Background Logo to Background Image Element
+
 = 1.0.3 =
 * Improvement: Activation and Deactivation improved
 * Removed ALB Debug toggle as it is already provided by Enfold from v5.6
