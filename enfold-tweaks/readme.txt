@@ -47,6 +47,11 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Changelog ==
 
+= 1.0.5 =
+* Fixed Hybrid Button widget for missing popup content after page is saved
+* Added popup content class field for the Hybrid Button widget
+* Fix compatibility for icon search feature
+
 = 1.0.4 =
 * New Hybrid Button Element with Popup capability
 * Fix heading and image not linked on Hybrid Box Element
