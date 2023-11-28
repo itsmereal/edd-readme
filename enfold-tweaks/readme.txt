@@ -47,6 +47,13 @@ Yes, Enfold Tweaks plugin only works with the Enfold Multipurpose theme by Kries
 
 == Changelog ==
 
+= 1.0.6 =
+* Fixed Modern Header Banner styles loading on post types other than 'page'
+* Added filter 'enqueue_modern_header_banner_style'
+* Added filter 'modern_header_banner_allowed_types'
+* Moved Enfold Tweaks widgets to it's own tab in the Avia Builder
+* Added 'Title Tag' field for Hybrid Box widget
+
 = 1.0.5 =
 * Fixed Hybrid Button widget for missing popup content after page is saved
 * Added popup content class field for the Hybrid Button widget
