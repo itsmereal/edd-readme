@@ -3,7 +3,7 @@ Contributors: wolfdevs
 Donate link: https://wolfdevs.com
 Tags: addon
 Requires at least: 4.0
-Tested up to: 6.3.2
+Tested up to: 6.4.1
 Stable tag: trunk
 Requires PHP: 5.4
 License: GPLv2 or later
